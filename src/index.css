@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-newport-100: #f5f3f0;
+  --color-newport-200: #e8e4dd;
+  --color-newport-300: #94a899;
+  --color-newport-400: #5d745f;
+  --color-newport-500: #2c4a2f;
+  --color-newport-600: #1a2c1c;
+  --color-newport-700: #141e14;
+  --color-newport-accent: #c77d4f;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
